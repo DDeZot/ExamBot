@@ -1,0 +1,139 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1717259849932,
+        "children": [
+          {
+            "key": 1717260399741,
+            "children": [],
+            "todo": {
+              "content": "determine which variables are needed",
+              "id": 1717260399741,
+              "level": "danger",
+              "done": false,
+              "start": 1717260399741
+            }
+          },
+          {
+            "key": 1717259876010,
+            "children": [],
+            "todo": {
+              "content": "token",
+              "id": 1717259876010,
+              "level": "default",
+              "done": true,
+              "start": 1717259876010,
+              "focus": false,
+              "end": 1717259907348
+            }
+          }
+        ],
+        "todo": {
+          "content": "Set enviroment variables",
+          "id": 1717259849932,
+          "level": "warning",
+          "done": false,
+          "start": 1717259849932,
+          "tip": "just set enviroment variable in file \".env\" and initialize global variable in file \"env.py\"\n"
+        }
+      },
+      {
+        "key": 1717259909934,
+        "children": [
+          {
+            "key": 1717259933678,
+            "children": [],
+            "todo": {
+              "content": "write run.py",
+              "id": 1717259933678,
+              "level": "default",
+              "done": false,
+              "start": 1717259933678
+            }
+          }
+        ],
+        "todo": {
+          "content": "Write run file",
+          "id": 1717259909934,
+          "level": "default",
+          "done": false,
+          "start": 1717259909934
+        }
+      },
+      {
+        "key": 1717259948548,
+        "children": [],
+        "todo": {
+          "content": "Write utils",
+          "id": 1717259948548,
+          "level": "default",
+          "done": false,
+          "start": 1717259948548,
+          "tip": "Create and write small pieces of code, it could be functions, any classes or .enum files"
+        }
+      },
+      {
+        "key": 1717259954199,
+        "children": [
+          {
+            "key": 1717259966246,
+            "children": [],
+            "todo": {
+              "content": "C++",
+              "id": 1717259966246,
+              "level": "default",
+              "done": false,
+              "start": 1717259966246
+            }
+          },
+          {
+            "key": 1717259971686,
+            "children": [],
+            "todo": {
+              "content": "Math",
+              "id": 1717259971686,
+              "level": "default",
+              "done": false,
+              "start": 1717259971686
+            }
+          },
+          {
+            "key": 1717259978032,
+            "children": [],
+            "todo": {
+              "content": "Python",
+              "id": 1717259978032,
+              "level": "default",
+              "done": false,
+              "start": 1717259978032
+            }
+          }
+        ],
+        "todo": {
+          "content": "Write json files",
+          "id": 1717259954199,
+          "level": "default",
+          "done": false,
+          "start": 1717259954199,
+          "tip": "Create and write each .json file in list. It must contains pairs key-value, where KEY is QUESTION on exam, and VALUE is ANSWER on it"
+        }
+      }
+    ],
+    "expandKeys": [
+      1717259849932
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "timelines": [],
+    "showLine": false,
+    "playFontSize": 24,
+    "title": "TODO",
+    "autoSort": false,
+    "showEndTime": false,
+    "simpleMode": false,
+    "lang": "en",
+    "version": "1717948554510"
+  }
+}

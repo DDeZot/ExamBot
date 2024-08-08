@@ -1,0 +1,190 @@
+{
+    "Базовые понятия": {
+        "Частная производная": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\partial_derivative.png"
+        },
+
+        "Первообразная": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\antiderivative_function.png"
+        },
+
+        "Неопределенный интеграл": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\indefinite_integral.png"
+        },
+
+        "Определенный интеграл": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\definite_integral.png"
+        },
+        
+        "Производная сложной функции нескольких переменных": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\function_of_several_variables_derivative.png"
+        },
+
+        "Формула интегрирования по частям для неопределенных и определенных интегралов": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\parcticle_integration.png"
+        },
+
+        "Формула Ньютона-Лейбнинца": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\newton_lebniz.png"
+        },
+
+        "Оснвные табличные интегралы": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\table_integrals.png"
+        },
+
+        "Формулы дифференцирования":{
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\dervative_formulas.png"
+        },
+
+        "Свойства элементарных функций":{
+            "text": "Да шли нахуй эту дуру как я это сюда умещу там 15 функций",
+            "photo": null
+        },
+
+        "Теорема Лагранжа": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\other\\lagrunge.png"
+        }
+    },
+    
+    "Билеты": {
+        "Билет 1": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket1.png"
+        },
+        
+        "Билет 2": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket2.png"
+        },
+        
+        "Билет 3": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket3.png"
+        },
+        
+        "Билет 4": {
+            "text": "!!!!Фотка справа - дополнение к первому вопросу!!!!",
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket4.png"
+        },
+        
+        "Билет 5": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket5.png"
+        },
+        
+        "Билет 6": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket6.png"
+        },
+        
+        "Билет 7": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket7.png"
+        },
+        
+        "Билет 8": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket8.png"
+        },
+        
+        "Билет 9": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket9.png"
+        },
+        
+        "Билет 10": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket10.png"
+        },
+        
+        "Билет 11": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket11.png"
+        },
+        
+        "Билет 12": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket12.png"
+        },
+        
+        "Билет 13": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket13.png"
+        },
+        
+        "Билет 14": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket14.png"
+        },
+        
+        "Билет 15": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket15.png"
+        },
+        
+        "Билет 16": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket16.png"
+        },
+        
+        "Билет 17": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket17.png"
+        },
+        
+        "Билет 18": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket18.png"
+        },
+        
+        "Билет 19": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket19.png"
+        },
+        
+        "Билет 20": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket20.png"
+        },
+        
+        "Билет 21": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket21.png"
+        },
+        
+        "Билет 22": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket22.png"
+        },
+        
+        "Билет 23": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket23.png"
+        },
+        
+        "Билет 24": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket24.png"
+        },
+        
+        "Билет 25": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket25.png"
+        },
+        
+        "Билет 26": {
+            "text": null,
+            "photo": "telegram_bot\\databases\\math_exam\\tickets\\ticket26.png"
+        }
+    }
+}
